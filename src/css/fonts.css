@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Canela';
+    src: url('../fonts/Canela-Regular.eot');
+    src: url('../fonts/Canela-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Canela-Regular.woff2') format('woff2'),
+        url('../fonts/Canela-Regular.woff') format('woff'),
+        url('../fonts/Canela-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Canela';
+    src: url('../fonts/Canela-LightItalic.eot');
+    src: url('../fonts/Canela-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Canela-LightItalic.woff2') format('woff2'),
+        url('../fonts/Canela-LightItalic.woff') format('woff'),
+        url('../fonts/Canela-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Canela';
+    src: url('../fonts/Canela-Thin.eot');
+    src: url('../fonts/Canela-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Canela-Thin.woff2') format('woff2'),
+        url('../fonts/Canela-Thin.woff') format('woff'),
+        url('../fonts/Canela-Thin.ttf') format('truetype');
+    font-weight: 250;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Canela';
+    src: url('../fonts/Canela-ThinItalic.eot');
+    src: url('../fonts/Canela-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Canela-ThinItalic.woff2') format('woff2'),
+        url('../fonts/Canela-ThinItalic.woff') format('woff'),
+        url('../fonts/Canela-ThinItalic.ttf') format('truetype');
+    font-weight: 250;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crystal Noir';
+    src: url('../fonts/CrystalNoir-Regular.eot');
+    src: url('../fonts/CrystalNoir-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CrystalNoir-Regular.woff2') format('woff2'),
+        url('../fonts/CrystalNoir-Regular.woff') format('woff'),
+        url('../fonts/CrystalNoir-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
